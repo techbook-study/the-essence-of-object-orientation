@@ -43,8 +43,8 @@
 -   PR과 정리한 파일의 제목은 아래 형식과 같습니다.
     
     ```
-    PR 제목 : docs: [범위] [이름] 정리글
-    ex) docs: chapter1 임요환 정리글
+    PR 제목 : docs. [범위] [이름] 정리글
+    ex) docs. chapter1 임요환 정리글
     
     파일명 : 주차.[범위] [이름] 정리글
     ex) 1week. chapter1 OOO 정리글.md
