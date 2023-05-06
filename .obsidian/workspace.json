@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "5a5acb437c574660",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcbb4d2eb28fa16c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8be75a854f47bbf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "김은호/3week. chapter3 김은호 정리글.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ddbdb8339c8cd75",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c68029c5e12300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d06846a532d985",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10aa28c73bce1be3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2e3f6294add6fc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ff9f14740b6fb08",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d55f31256bf42a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9317349ad7cd13f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "김은호/3week. chapter3 김은호 정리글.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb8035fd4090691e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "김은호/3week. chapter3 김은호 정리글.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ead697fabd834722",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8947797ee08cf7e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "김은호/3week. chapter3 김은호 정리글.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "8be75a854f47bbf0",
+  "lastOpenFiles": [
+    "김은호/2week. chapter2 김은호 정리글.md",
+    "김은호/3week. chapter3 김은호 정리글.md"
+  ]
+}
